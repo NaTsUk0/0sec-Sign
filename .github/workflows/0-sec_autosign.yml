@@ -30,4 +30,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: python ./0secSign.py
+        run: python3 ./0secSign.py
