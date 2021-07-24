@@ -18,7 +18,7 @@
 
 -   创建`VCPASS`,填入验证码平台账号(**必填**)
 
--   创建`PUSHTYPE`,填入选择的推送渠道(可选)(dingtalk|telegram|ftpush|bark|enterprise\_wechat)(可选)
+-   创建`PUSHTYPE`,填入选择的推送渠道(可选)(dingtalk|telegram|ftpush|bark|enterprise\_wechat|push_plus_push)(可选)
 
 -   创建`DINGTALKACCESSTOKEN`(钉钉推送参数，可选)
 
